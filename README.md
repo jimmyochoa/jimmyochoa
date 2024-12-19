@@ -18,11 +18,11 @@ I am a passionate full-stack developer who thrives on learning new technologies 
 ### DevOps & Tools:
 - **DevOps**: Docker, GitHub Actions, CI/CD Pipelines
 - **Version Control**: Git, GitHub, GitLab
-- **Containerization**: Docker, Kubernetes
+- **Containerization**: Docker
 
 ### Design & Methodologies:
-- **Design**: Figma, Adobe XD
-- **Methodologies**: Agile, Scrum, TDD (Test-Driven Development)
+- **Design**: Figma
+- **Methodologies**: Agile, Scrum
 
 ## 📊 GitHub Stats:
 ![jimmyochoa's Stats](https://github-readme-stats.vercel.app/api?username=jimmyochoa&theme=default&show_icons=true&hide_border=true&count_private=true)
