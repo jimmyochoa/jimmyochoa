@@ -12,8 +12,8 @@ I am a passionate full-stack developer who thrives on learning new technologies 
 
 ### Frontend Development:
 - **Languages**: JavaScript, TypeScript
-- **Frameworks/Libraries**: Angular, React, Vue.js
-- **Markup & Styling**: HTML5, CSS3, SCSS, Bootstrap
+- **Frameworks/Libraries**: Angular, React
+- **Markup & Styling**: HTML5, CSS3, Bootstrap, Tailwind
 
 ### DevOps & Tools:
 - **DevOps**: Docker, GitHub Actions, CI/CD Pipelines
