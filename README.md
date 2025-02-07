@@ -7,7 +7,7 @@ I am a passionate full-stack developer who thrives on learning new technologies 
 ## 🧰 My Tech Stack:
 ### Backend Development:
 - **Languages**: PHP, C#, Java, Python
-- **Frameworks**: Laravel, .NET Core, Spring Boot, Flask
+- **Frameworks**: Laravel, .NET Core, Flask, Django, Express j, FastAPI
 - **Databases**: MySQL, PostgreSQL, SQL Server
 
 ### Frontend Development:
